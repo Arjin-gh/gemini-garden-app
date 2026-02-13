@@ -1,0 +1,8 @@
+{
+  "name": "知识花园Knowledge Garden",
+  "description": "A healing and warm knowledge growth application where you grow a plant by learning new things every day.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
